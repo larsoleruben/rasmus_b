@@ -1,0 +1,15 @@
+/Users/larschristoffersen/sourcecode/private/atomics/bin/Debug/net6.0/atomics
+/Users/larschristoffersen/sourcecode/private/atomics/bin/Debug/net6.0/atomics.deps.json
+/Users/larschristoffersen/sourcecode/private/atomics/bin/Debug/net6.0/atomics.runtimeconfig.json
+/Users/larschristoffersen/sourcecode/private/atomics/bin/Debug/net6.0/atomics.dll
+/Users/larschristoffersen/sourcecode/private/atomics/bin/Debug/net6.0/atomics.pdb
+/Users/larschristoffersen/sourcecode/private/atomics/obj/Debug/net6.0/atomics.csproj.AssemblyReference.cache
+/Users/larschristoffersen/sourcecode/private/atomics/obj/Debug/net6.0/atomics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/larschristoffersen/sourcecode/private/atomics/obj/Debug/net6.0/atomics.AssemblyInfoInputs.cache
+/Users/larschristoffersen/sourcecode/private/atomics/obj/Debug/net6.0/atomics.AssemblyInfo.cs
+/Users/larschristoffersen/sourcecode/private/atomics/obj/Debug/net6.0/atomics.csproj.CoreCompileInputs.cache
+/Users/larschristoffersen/sourcecode/private/atomics/obj/Debug/net6.0/atomics.dll
+/Users/larschristoffersen/sourcecode/private/atomics/obj/Debug/net6.0/refint/atomics.dll
+/Users/larschristoffersen/sourcecode/private/atomics/obj/Debug/net6.0/atomics.pdb
+/Users/larschristoffersen/sourcecode/private/atomics/obj/Debug/net6.0/atomics.genruntimeconfig.cache
+/Users/larschristoffersen/sourcecode/private/atomics/obj/Debug/net6.0/ref/atomics.dll
